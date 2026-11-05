@@ -19,7 +19,6 @@ flowchart TD
     H --> I["📋 Prioritized Report"]
     I --> J["💡 Recommendations & Regression Tests"]
 ```
-
 ## What We're Building
 
 - **AI Exploration** — Discover application workflows and simulate different user behaviors.
